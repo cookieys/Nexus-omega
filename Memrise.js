@@ -10,8 +10,8 @@
 // @match        https://community-courses.memrise.com/*/*session_complete*
 // @match        https://community-courses.memrise.com/*/*end_of_session*
 // @icon         https://i.imgur.com/7owOpVH.jpeg
-// @updateURL    https://gist.githubusercontent.com/cookieys/a37241fd6268cae31f8dd6091e3f5ef0/raw/Memrise.js
-// @downloadURL  https://gist.githubusercontent.com/cookieys/a37241fd6268cae31f8dd6091e3f5ef0/raw/Memrise.js
+// @updateURL    https://raw.githubusercontent.com/cookieys/Nexus-omega/refs/heads/main/Memrise.js
+// @downloadURL  https://raw.githubusercontent.com/cookieys/Nexus-omega/refs/heads/main/Memrise.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
